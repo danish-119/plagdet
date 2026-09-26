@@ -4,6 +4,17 @@ A parallel plagiarism detector for source code. Upload a batch of student submis
 
 Comparing every file against every other file gets slow quickly. PlagDet avoids that by fingerprinting each file, grouping files that look alike, and only scoring those candidate pairs in detail. The heavy stages run across a pool of worker processes, and the hashing hot path is written in C.
 
+## Course project
+
+This is a semester project for **Parallel & Distributed Computing (CSC344)**, Group 14, at COMSATS Lahore.
+
+| | |
+| --- | --- |
+| Course | Parallel & Distributed Computing |
+| Course code | CSC344 |
+| Instructor | Ms. Muntha Amjad, Lecturer, Department of Computer Science, COMSATS Lahore |
+| Group | 14 |
+
 ## How it works
 
 1. **Filter.** Only files matching the selected language are kept. Hidden and extension-less files are ignored, and `.zip` archives are unpacked.
