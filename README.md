@@ -15,6 +15,15 @@ This is a semester project for **Parallel & Distributed Computing (CSC344)**, Gr
 | Instructor | Ms. Muntha Amjad, Lecturer, Department of Computer Science, COMSATS Lahore |
 | Group | 14 |
 
+### Team
+
+| Member | Roll No. |
+| --- | --- |
+| Muhammad Danish | FA23-BSE-105 |
+| Abdul Wasay | FA23-BSE-210 |
+| Haziq Mirza | FA23-BSE-062 |
+| Abdullah Rasheed | FA23-BSE-014 |
+
 ## How it works
 
 1. **Filter.** Only files matching the selected language are kept. Hidden and extension-less files are ignored, and `.zip` archives are unpacked.
