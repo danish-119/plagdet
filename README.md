@@ -6,14 +6,13 @@ Comparing every file against every other file gets slow quickly. PlagDet avoids 
 
 ## Course project
 
-This is a semester project for **Parallel & Distributed Computing (CSC344)**, Group 14, at COMSATS Lahore.
+This is a semester project for **Parallel & Distributed Computing (CSC344)** at COMSATS Lahore.
 
 | | |
 | --- | --- |
 | Course | Parallel & Distributed Computing |
 | Course code | CSC344 |
 | Instructor | Ms. Muntha Amjad, Lecturer, Department of Computer Science, COMSATS Lahore |
-| Group | 14 |
 
 ### Team
 
