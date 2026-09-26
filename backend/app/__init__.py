@@ -1,0 +1,1 @@
+"""PlagDet backend application package."""

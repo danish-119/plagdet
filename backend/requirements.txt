@@ -1,0 +1,9 @@
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+python-multipart==0.0.*
+pydantic-settings==2.*
+reportlab==4.*
+pytest==8.*
+httpx==0.28.*
+black==24.*
+flake8==7.*
