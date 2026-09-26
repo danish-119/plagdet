@@ -1,0 +1,15 @@
+import { HeroSection } from '@/components/landing/hero-section';
+import { HowItWorks } from '@/components/landing/how-it-works';
+import { FeatureCards } from '@/components/landing/feature-cards';
+import { CtaSection } from '@/components/landing/cta-section';
+
+export default function Home() {
+  return (
+    <>
+      <HeroSection />
+      <HowItWorks />
+      <FeatureCards />
+      <CtaSection />
+    </>
+  );
+}
