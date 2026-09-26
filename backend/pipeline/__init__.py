@@ -1,0 +1,1 @@
+"""Core plagiarism detection pipeline."""
