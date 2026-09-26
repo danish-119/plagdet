@@ -1,0 +1,18 @@
+services:
+  backend:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/tmp:/tmp/plagdet
+    environment:
+      CORS_ORIGINS: '["http://localhost:3000"]'
+
+  frontend:
+    build:
+      context: ../frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
