@@ -18,7 +18,7 @@ This is a semester project for **Parallel & Distributed Computing (CSC344)** at 
 
 | Member | Roll No. |
 | --- | --- |
-| Muhammad Danish | FA23-BSE-105 |
+| Muhammad Danish (Group Leader) | FA23-BSE-105 |
 | Abdul Wasay | FA23-BSE-210 |
 | Haziq Mirza | FA23-BSE-062 |
 | Abdullah Rasheed | FA23-BSE-014 |
